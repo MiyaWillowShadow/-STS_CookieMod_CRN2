@@ -1,0 +1,5 @@
+{
+  "CrnMod:PO_Beer":{"NAME":"啤酒","DESCRIPTIONS":["获得2层 #y秘鲁支援 "]},
+  "CrnMod:PO_Ration":{"NAME":"军粮","DESCRIPTIONS":["获得4层 #y连击 和 #y瞄准 "]},
+  "CrnMod:PO_BottleMilk":{"NAME":"奶瓶","DESCRIPTIONS":["获得 #y牛乳支援 "]}
+}

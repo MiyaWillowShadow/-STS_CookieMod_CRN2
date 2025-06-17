@@ -1,0 +1,19 @@
+{
+  "CrnMod:R_Basic":{"NAME":"暖炉","FLAVOR":"很暖和，但也很危险，一旦出现就会把人绊倒。","DESCRIPTIONS":["斩杀敌人获得1层无线电，精英3层，首领6层。"]},
+  "CrnMod:R_Basic2":{"NAME":"无线电","FLAVOR":"军方配备的无线电，但被CRN改造成了好友通话机。","DESCRIPTIONS":["初始3层，战斗胜利后获得1层。战斗开始时获得1张 #y联络。"]},
+  "CrnMod:R_Basic_Plus":{"NAME":"软手机","FLAVOR":"哥哥的遗物，其留下的一条语音信息到底说了什么，至今仍是未解之谜。","DESCRIPTIONS":["替换无线电。斩杀敌人获得2层无线电，精英6层，首领12层。"]},
+  "CrnMod:R_DIYUSI":{"NAME":"指挥棒","FLAVOR":"DIYUSI用来指挥交通的工具。","DESCRIPTIONS":["战斗开始时，获得diyusi支援。"]},
+  "CrnMod:R_SIYUDI":{"NAME":"红伞","FLAVOR":"SIYUDI爱用的伞，但似乎不怎么用来遮雨。","DESCRIPTIONS":["战斗开始时，获得siyudi支援。"]},
+  "CrnMod:R_Sakenomi":{"NAME":"酒饮","FLAVOR":"可爱的生物，让人想知道身体内部是什么构造。可惜这个只是头部玩偶。","DESCRIPTIONS":["每斩杀3个敌人，获得秘鲁支援。"]},
+  "CrnMod:R_BlackCar":{"NAME":"黑色高级车","FLAVOR":"也许是因为过于疲惫，不幸追尾了一辆黑色高级轿车……。","DESCRIPTIONS":["战斗开始时，给予所有敌人3层弱点。"]},
+  "CrnMod:R_Sister":{"NAME":"危险标识：强磁性","FLAVOR":"SIYUDI能力的具现化，大部分早已佚失，或许有一部分沉眠在高塔中。","DESCRIPTIONS":["有DIYUSI和SIYUDI支援时，每回合多抽1张牌。"]},
+  "CrnMod:R_EroBook":{"NAME":"大人的曲奇","FLAVOR":"看小黄本，延年益寿，振奋精神，强身健体（迫真）。","DESCRIPTIONS":["回合开始时，获得1层连击和瞄准。"]},
+  "CrnMod:R_Sword":{"NAME":"天上天下天地无双刀","FLAVOR":"YMN做具现化修行时所用的刀。","DESCRIPTIONS":["每第6张攻击牌，增加自身效果种数的伤害。"]},
+  "CrnMod:R_Moon":{"NAME":"月曜先辈","FLAVOR":"它转起来了，它倒着转起来了（被枪毙）。","DESCRIPTIONS":["每回合开始获得 [E] 。战斗开始时，将1张 #y串频 放入你的抽牌堆。"]},
+  "CrnMod:R_Stop":{"NAME":"停下","FLAVOR":"附件标识之一，能阻止大部分敌人的行动。","DESCRIPTIONS":["战斗开始时，击晕所有 #y普通 敌人 #b1 回合。"]},
+  "CrnMod:R_Shop":{"NAME":"移动材料屋","FLAVOR":"为了方便售货，大量生产的移动材料店。在这种地方，居然有一家材料屋。","DESCRIPTIONS":["进入商店时获得 #b150 金币，最多触发 #b3 次。"]},
+  "CrnMod:R_NicoNico":{"NAME":"NicoNico本社","FLAVOR":"易燃易爆物，请小心使用。","DESCRIPTIONS":["战斗开始时，对所有敌人造成 #b%d 点伤害。"]},
+  "CrnMod:R_ZIP":{"NAME":"恶魔之力","FLAVOR":"将恶魔之力，集于一身。","DESCRIPTIONS":["每场战斗的前3回合多抽1张牌。"]},
+  "CrnMod:R_Biim":{"NAME":"Biim兄贵","FLAVOR":"会说话的种田馒头，很可爱。或许还存在着其他形态……？。","DESCRIPTIONS":["回合结束时，每有1个负面效果获得 #b%d 点格挡。"]},
+  "CrnMod:R_Grape":{"NAME":"葡萄","FLAVOR":"要历经六六三十六难才找到的究极水果，其味道让人永世难忘。","DESCRIPTIONS":["拾起时，将你的最大生命值提升21。"]}
+}

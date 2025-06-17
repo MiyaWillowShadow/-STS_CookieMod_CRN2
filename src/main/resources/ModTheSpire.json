@@ -1,0 +1,14 @@
+{
+  "modid": "CRNmod2",
+  "name": "CRN（Cookie）",
+  "author_list": [
+    "ECM","Naiya"
+  ],
+  "description": "Adds CRNmod（Cookie） from Cookie Project as a new playable character.",
+  "dependencies": [
+    "basemod"
+  ],
+  "version": "114.514.1919",
+  "sts_version": "11-27-2022",
+  "mts_version": "3.23.2"
+}

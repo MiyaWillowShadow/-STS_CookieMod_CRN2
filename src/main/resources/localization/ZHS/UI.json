@@ -1,0 +1,19 @@
+{
+  "NaiCard:OriginalKeyWords": {"TEXT": [  "NL","格挡","消耗","虚无","固有","升级","变化","不能被打出",
+    "力量","敏捷","无实体","人工制品","荆棘","再生","活力","斩杀","中毒","易伤","虚弱","灼伤","诅咒","晕眩","状态牌","伤口"  ] },
+  "NaiCard:EXHAUST": {"TEXT": [  "消耗"  ] },
+  "NaiCard:EXHAUSTS": {"TEXT": [  "消耗性"  ] },
+  "NaiCard:ETHEREAL": {"TEXT": [  "虚无"  ] },
+  "NaiCard:INNATE": {"TEXT": [  "固有"  ] },
+  "NaiCard:RETAIN": {"TEXT": [  "保留"  ] },
+  "CrnMod:SLAIN": {"TEXT": [  "斩击"  ] },
+  "CrnMod:SHOT": {"TEXT": [  "射击"  ] },
+  "CrnMod:VARY": {"TEXT": [  "变化"  ] },
+  "CrnMod:BOTH": {"TEXT": [  "复合"  ] },
+  "CrnMod:SetCardToTop": {"TEXT": [  "选择的第1张牌将位于最顶"  ] },
+  "CrnMod:MyModConfig": {
+    "TEXT_DICT": {
+      "enableSomething": "Talk sound"
+    }
+  }
+}
